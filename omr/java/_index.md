@@ -1,20 +1,21 @@
 ﻿---
-title: Java Cloud SDK to Detect, Grade & Extract OMR Data 
-description: REST API for seamless integration of OMR sheet detection, grading & processing capabilities into your Java cloud apps
+title: Call OMR Cloud API from Java applications
+description: This SDK simplifies all routine operations for calling Aspose.OMR cloud services in cross-platform Java applications.
 weight: 30
 url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Detect, Grade & Extract OMR Data via Java Cloud SDK" h2="REST API for seamless integration of OMR sheet detection, grading & processing capabilities into your Java cloud apps." logoImageSrc="/headers/aspose_omr-for-java.svg" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Use OMR as a service in Java" h2="Build powerful and reliable software-based optical mark readers that can run on any platform with just a few lines of Java code." logoImageSrc="/headers/aspose_omr-for-java.svg" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_omr-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/omr" directDownloadLink="https://github.com/aspose-omr-cloud/aspose-omr-cloud-java" liveDemosLink="https://products.aspose.app/omr/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.OMR Cloud SDK for Java provides your cloud-based Java applications the capability to capture human-marked data from OMR sheets, surveys, MCQs, questionnaires stored on the cloud, perform grading of the gathered OMR data from the cloud, based on your defined rules, extract that data and export it to CSV format, without requiring the installation of any 3rd party software.</p>
-<p>Aspose.OMR Cloud SDK for Java is available for your use under an MIT license and is based on the Aspose.OMR REST API. It enhances your Java code to easily define new OMR templates with lots of elements, such as, text, choice box, answer sheet, grid, logo images, barcodes, QR-codes, Aruco codes, etc. You can also process & recognize data from the OMR images that are rotated or with a perspective shape. Aspose.OMR GUI editor is also available as a cloud client, that enables you to create the markup for OMR templates, tweak OMR templates, and export OMR results to the CSV format.</p>
+<p>Aspose.OMR Cloud is an easy-to-use and versatile online service for designing, rendering and recognizing hand-filled answer sheets, surveys, questionnaires, tests, insurance claims, and similar forms. With it, you can quickly develop on-premise and web-based Java applications for optical mark recognition (OMR) that require minimal resources on the client side - all the work is performed by remote services.</p>
+<p>This software development kit (SDK) simplifies the interaction with Aspose.OMR Cloud services, allowing you to focus on the task at hand, not the technical details. It handles all the routine operations such as establishing connections, sending API requests, and parsing responses, wrapping all these tasks into a few simple methods that can be used in any Java application.</p>
+<p>This SDK, demo apps, and form templates are distributed under the MIT license. You can modify them to suit your needs and use them in any commercial and free projects.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -23,20 +24,42 @@ url: /java
 {{< blocks/products/pf/carousel-item h3="At a Glance"  >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left">
+	<header>
+	<i class="fa fa-bars">
+	</i>
+	Create OMR forms
+	</header>
+	<ul>
+		<li>Powerful markup languages</li>
+		<li>More than 20 predefined elements</li>
+		<li>QR codes and barcodes</li>
+		<li>Add images and branding</li>
+		<li>All popular paper sizes</li>
+		<li>No graphic editors required</li>
+	</ul>
+</div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-barcode"> </i>Overview</header><ul><li>Get data from scanned images</li>
-<li>Process perspective photos</li>
-<li>Export the results to CSV</li>
-<li>Template generation</li>
-<li>Apply text mark-up</li>
-<li>Trim image and apply OMR</li>
-<li>Appy JSON rules</li>
-<li>GUI based OMR editor</li>
-</ul></div>
+<div class="d1-col d1-right">
+	<header>
+	<i class="fa fa-eye">
+	</i>
+	Recognize OMR forms
+	</header>
+	<ul>
+		<li>Read scanned images and photos</li>
+		<li>Superior recognition accuracy</li>
+		<li>No equipment needed</li>
+		<li>Adjust rotated & skewed images</li>
+		<li>Recognize all types of marks</li>
+		<li>Recognition accuracy tuning</li>
+		<li>Decode QR codes and barcodes</li>
+		<li>Process write-in fields</li>
+	</ul>
+</div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_omr-for-java.svg" alt="Java OMR Cloud"><header>Aspose.OMR</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_omr-for-java.svg" alt="Java SDK for OMR Cloud"><header>Aspose.OMR</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -44,18 +67,37 @@ url: /java
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-long-arrow-down"> </i>Input Only</header><ul><li>JPEG</li>
-<li>PNG</li>
-<li>BMP</li>
-<li>TIFF</li>
-<li>PDF</li>
-</ul></div>
+<div class="d1-col d1-left">
+	<header>
+	<i class="fa fa-arrows-v">
+	</i>
+	Printable forms
+	</header>
+	<ul>
+		<li>PDF</li>
+		<li>JPEG</li>
+		<li>PNG</li>
+		<li>TIFF</li>
+		<li>GIF</li>
+		<li>BMP</li>
+	</ul>
+</div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i>Output Only</header><ul><li>CSV</li>
-</ul></div>
+<div class="d1-col d1-right">
+	<header>
+	<i class="fa fa-long-arrow-down">
+	</i>
+	Recognition results
+	</header>
+	<ul>
+		<li>CSV</li>
+		<li>JSON</li>
+		<li>XML</li>
+	</ul>
+</div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_omr-for-java.svg" alt="Java Cloud for OMR"><header>Aspose.OMR</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_omr-for-java.svg" alt="OMR as a service for Java"><header>Aspose.OMR</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -69,64 +111,114 @@ url: /java
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
-<div class="container-fluid features-section bg-gray singleproduct"><a id="features" class="anchor" name="features"></a> 
-<div class="row">
-<div class="container">
-<h2 class="pr-ft">Advanced OMR REST API Features</h2>
-<p> </p>
-<div class="col-lg-4"><em class="fa fa-image ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Recognition of scanned images and photos</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-circle-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Ability to process rotated photos</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-random ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Ability to process perspective (side-view within 25 deg) photos</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-line-chart ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Recognize scanned data from tests, exams, questionnaires, surveys</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Highly accurate optical mark recognition (OMR)</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-undo ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Export the recognized results to CSV file format</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Template generation from textual markup</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-barcode ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Generate surveys and test sheets via text mark-up</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Specify number of questions & answers in the template</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-compress  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Clip area of interest from recognized image for OMR & save it as JPEG</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-magic ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Support for OMR answer grading based on provided JSON rules</p>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="container">
-<div class="col-lg-12">
-<h2 class="h2title">Quickly Get Started with OMR REST API</h2>
-<p>It is easy to get started with Aspose.OMR Cloud SDK for Java and there is nothing to install. Simply create an account at <a href="https://dashboard.aspose.cloud/#/apps">Aspose for Cloud</a> and get your application information. Once you have the App SID & KEY, you are ready to give the Aspose.OMR Cloud SDK for Java a try on any supported platforms.</p>
-</div>
-<div class="col-lg-12">
-<h2 class="h2title">Markup for OMR Template Generation</h2>
-<p>Aspose.OMR Cloud SDK for Java allows developers to use markup to generate OMR templates. This markup support several types of elements. These elements include, text, choice box (question), answer sheet (several column of questions), grid (complex values that consist of similar sections), image (e.g. logo), barcode (barcodes, QR-codes, ArUco codes).</p>
-</div>
-<div class="col-lg-12">
-<h2 class="h2title">GUI Application for OMR Template Management</h2>
-<p>Along with, Aspose.OMR Cloud SDK for Java, you can also download an MSI package that installs a light-weight <a href="https://github.com/aspose-omr-cloud/aspose-omr-cloud-dotnet/tree/master/Aspose.OMR.Client">OMR client application</a> which lets you create your own OMR templates. Using Aspose’s OMR client application you can also make corrections to existing OMR templates and perform optical mark recognition via Aspose.OMR Cloud engine. A repository is also provided which contains data and configuration files to be used in our OMR SDK demo project.</p>
-</div>
-</div>
-</div>
-</div>
-
+<div class="container-fluid features-section bg-gray singleproduct">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Features and Capabilities of OMR Cloud Service
+   </h2>
+   <p> </p>
+   <div class="col-lg-4">
+    <em class="fa fa-mobile-phone ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Use your smartphone camera instead of a scanner
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Read all types of marks drawn with a pen, pencil or marker
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Supports all image formats you can get from a scanner or camera
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Processes write-in fields and custom drawings
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Superior recognition accuracy for reliable results
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Fine-tune recognition parameters to handle difficult cases
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Powerful markup languages for creating all types of forms
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-qrcode ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Personalize forms with barcodes, QR codes, branding and images
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cloud ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Requires minimal resources on the end user devices
+    </p>
+   </div>
+   </div>
+   </div>
+   <div class="row">
+    <div class="container">
+     <div class="col-lg-12">
+      <h2 class="h2title">Quick start</h2>
+      <p>This SDK makes it easy to integrate your Java application with our service. You can forget about tons of low-level code like request flow, HTTP headers, error handling, and the like - all tasks are done in a few lines of native Java code that even inexperienced developers can maintain.</p>
+      <p>OMR SDK for Java comes with a number of fully-functional examples, that allow you to quickly familiarize yourself with its functions and capabilities and give you an idea of creating solutions for your business needs.</p>
+     </div>
+     <div class="col-lg-12">
+      <h2 class="h2title">Wide range of applications</h2>
+      <p>Optical Mark Recognition (OMR) technology has many applications and can greatly simplify almost any part of your life when you need to collect and analyze manually filled data. It fully automates the process, allowing hundreds of sheets per minute to be recognized with nearly 100% accuracy, and saves the results directly to a database for further aggregation and analysis. Applications include but are not limited to:</p>
+      <ul>
+      	<li>Education: answer sheets, tests, quizzes, SAT forms, and many more.</li>
+      	<li>Questionnaires: customer satisfaction surveys, feedback forms, orders, meal preferences.</li>
+      	<li>Applications: insurance claims, financial applications, border entry forms.</li>
+      	<li>And many more.</li>
+      </ul>
+     </div>
+     <div class="col-lg-12">
+      <h2 class="h2title">Create forms without design tools</h2>
+      <p>Our API supports the complete OMR workflow - from designing a form to recognizing its scanned hardcopies. It offers highly flexible JSON and text markups with <b>20</b> layout and content elements that can be combined with each other to produce forms of any layout can complexity.</p>
+      <p>Forms are generated in most popular graphic formats, as well as PDF documents, which allows you to print them on a regular printer or on high-quality typographical equipment.</p>
+     </div>
+     <div class="col-lg-12">
+      <h2 class="h2title">No specialized equipment required</h2>
+      <p>You no longer need specialized scanners, paper, and other “hardware” solutions. Advanced image analysis and artificial intelligence techniques made it possible to use a regular pen and paper, common office copier, or even a smartphone camera instead of dedicated devices, without affecting recognition accuracy and confidence in the result. Our API allows for building purely software OMR solutions that compete on par with traditional hardware-based systems at a much lower cost.</p>
+      <p>Aspose.OMR Cloud is an on-demand service that runs in a high-performance cloud. As such, it has no special hardware or operating system requirements - you can use it even on entry-level systems and mobile devices without loss of accuracy and performance.</p>
+     </div>
+     <div class="col-lg-12">
+      <h2 class="h2title">Unlimited possibilities with Aspose Cloud solutions</h2>
+      <p>An account in Aspose Cloud grants you access to the full range of our <a href="https://www.aspose.cloud/">cloud APIs</a>. You can read write-in fields with OCR, build document and presentations from aggregated recognition results, analyze survey data with pivot tables. All tasks are performed in the same way, which significantly speeds up development, reduces learning and maintenance costs, even for the most advanced business solution.</p>
+     </div>
+    </div>
+   </div>
+  </div>
 
 <!--Feature-section End-->
 
@@ -156,13 +248,11 @@ url: /java
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OMR" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose also offers Cloud OMR SDKs for other popular platforms and programming languages:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/omr/curl/" imgSrc="/sdk/aspose_omr-for-curl.svg" platform="cURL" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/omr/net/" imgSrc="/sdk/aspose_omr-for-net.svg" platform=".NET" >}}
-	
-    {{< blocks/products/pf/offers-section-item link="/omr/java/" imgSrc="/sdk/aspose_omr-for-java.svg" platform="Java" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/omr/php/" imgSrc="/sdk/aspose_omr-for-php.svg" platform="PHP" >}}
 	

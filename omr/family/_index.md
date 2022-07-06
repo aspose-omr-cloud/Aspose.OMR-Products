@@ -1,46 +1,46 @@
 ﻿---
-title: OMR Sheet Reading & Processing Cloud SDKs & REST APIs 
+title: Optical Mark Recognition as a service 
 weight: 10
-description: Access human-marked OMR data stored in the cloud, extract optical mark data & export to CSV format using cloud SDKs for various languages
+description: Cloud-based REST API for optical mark recognition and generation of OMR-ready forms and SDKs that simplify API calls from different languages and platforms.
 url: /family
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Read & Extract OMR Data via REST APIs & Cloud SDKs" h2="Access human-marked OMR data stored in the cloud, extract optical mark data & export to CSV format using cloud SDKs for various languages." logoImageSrc="/headers/aspose_omr.svg" pfName="Aspose.OMR" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Fast, reliable and easy-to-use OMR API" h2="Build lightweight OMR form designers and optical mark readers for any platform by calling our cloud-based OMR REST API." logoImageSrc="/headers/aspose_omr.svg" pfName="Aspose.OMR" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud for cURL" imgSrc="/sdk/aspose_omr-for-curl.svg" productLink="/omr/curl/" >}}
-Build cURL applications via REST API to access OMR data present on the cloud storage, recognize & extract it to supported formats.
+Perform optical mark recognition and generate OMR-ready forms from a command line without downloading and installing any software.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_omr-for-net.svg" productLink="/omr/net/" >}}
-Build OMR based answer sheet checker apps in C# or other .NET supported languages for cloud platforms using REST API.
+Transparently interact with cloud-based OMR REST API from your C#, F# or Visual basic applications applications.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Java" imgSrc="/sdk/aspose_omr-for-java.svg" productLink="/omr/java/" >}}
-Develop cloud-based OMR mark reader & exporter Java apps for OMR images & barcodes using REST API.
+Simplify calls to Aspose.OMR Cloud REST API from Java. Perform all request routines with a few simple and easy to read commands.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_omr-for-php.svg" productLink="/omr/php/" >}}
-Enhance your PHP applications to fetch OMR exam sheets from the cloud, extract its marked data & export to CSV format.
+Integrate OMR functionality to your PHP web site in a few lines of code, focusing on business logic rather than technical details.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Python" imgSrc="/sdk/aspose_omr-for-python.svg" productLink="/omr/python/" >}}
-Python REST SDK to assist you in reading cloud-hosted OMR bubble sheets or QR-codes with accuracy & export marked data to CSV.
+Use optical mark recognition in your data analysis and automation software written in Python. Requires minimal code and is easy to maintain.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_omr-for-ruby.svg" productLink="/omr/ruby/" >}}
-Enhances your Ruby cloud apps to recognize OMR sheets, images, photos, barcodes, QR-codes for human-marked data with high accuracy.
+Automate processing of answer sheets, surveys, ballots, insurance claims and other OMR forms in your Ruby apps with our OMR service.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_omr-for-node.svg" productLink="/omr/nodejs/" >}}
-Brings new features to your Node.js cloud-based apps to fetch, read & detect human-marked data from OMR images stored on the cloud.
+Add OMR functionality to AWS Lambda, Azure Functions, services, and applications written in Node.js by querying our cloud API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Perl" imgSrc="/sdk/aspose_omr-for-perl.svg" productLink="/omr/perl/" >}}
-Seamlessly integrate the optical mark recognition features into your Perl cloud apps to read & extract marked data from OMR images.
+Call OMR cloud services from your Perl applications to build lightweight and easy-to-maintain software-based optical mark readers.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

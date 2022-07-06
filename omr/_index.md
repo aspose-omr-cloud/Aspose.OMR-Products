@@ -1,26 +1,26 @@
 ﻿---
-title: Optical Mark Recognition Solutions | REST & On Premise APIs 
-description: Build OMR apps for desktop, web & cloud platforms via native libraries, cloud SDKs or REST APIs to read & extract data from OMR exam sheets 
+title: Cloud solutions for optical mark recognition
+description: Create and recognize hand-filled answer sheets, surveys, ballots, and similar forms using our cloud-based OMR API.
 weight: 60
 url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Optical Mark Recognition & Reader (OMR) Solution" h2="Build OMR apps for desktop, web & cloud platforms via native libraries, cloud SDKs or REST APIs to read & extract data from OMR exam sheets, etc." logoImageSrc="/headers/aspose_omr-brand.svg" imageAlt="Aspose.OMR Product Solution" >}}
+{{< blocks/products/pf/family-upper-banner h1="Optical Mark Recognition as a service" h2="Generate OMR-ready forms and automatically read optical marks from hand-filled answer sheets, surveys, and questionnaires with minimal resources on the client side." logoImageSrc="/headers/aspose_omr-brand.svg" imageAlt="Aspose.OMR Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product productLink="/omr/curl/" pfName="Aspose.OMR" title="Cloud for cURL" imgSrc="/sdk/aspose_omr-for-curl.svg" >}}
-Recognize optical mark data from various formats (JPEG, PNG, BMP, TIFF & PDF) & export to CSV using cURL via REST API. Barcode recognition supported.
+Use cURL commands and scripts to perform optical mark recognition and generate OMR-ready forms without downloading and installing any software.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product productLink="/omr/net/" pfName="Aspose.OMR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_omr-for-net.svg" >}}
-Capture human-marked data from OMR exam sheets, surveys, etc. & export it to CSV using C# or other .NET languages. Recognize QR-codes as well.
+Interact with cloud-based OMR API from your .NET applications, focusing on business logic rather than technical details.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product productLink="/omr/java/" pfName="Aspose.OMR" title="Cloud SDK for Java" imgSrc="/sdk/aspose_omr-for-java.svg" >}}
-Build highly-accurate OMR software for cloud platforms in Java using REST API via Cloud SDK. Recognize human-marked data & export to CSV.
+Simplify calls to Aspose.OMR Cloud REST API from Java. Perform all API request routines with a few simple and easy to read commands.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="/omr/family/" innerText="View All Low Code APIs" >}}
@@ -30,10 +30,10 @@ Build highly-accurate OMR software for cloud platforms in Java using REST API vi
 {{< blocks/products/pf/product-card-row title="Aspose.OMR High Code APIs Include" >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.com/omr/net/" pfName="Aspose.OMR for " title=".NET" imgSrc="/product-logos/aspose_omr-for-net.svg" >}}
-Build desktop-based OMR software in C# or other .NET supported languages to detect human-marked data from OMR documents & export to CSV, XML or JSON.
+Develop .NET desktop applications and web services for optical mark recognition that work equally well with scanned images and photos and can read any type of marks.
 {{< /blocks/products/pf/product >}}
 {{< blocks/products/pf/product productLink="https://products.aspose.com/omr/java/" pfName="Aspose.OMR for " title="Java" imgSrc="/product-logos/aspose_omr-for-java.svg" >}}
-On-premise APIs to add Optical Mark Recognition functionality within applications as well as recognize data from photos and scans in most commonly used image formats.
+Create OMR forms and automatically read scanned or photographed surveys on any platform that supports Java. Read optical marks without specialized scanners and accessories.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/omr/family/" innerText="View All On Premise APIs" >}}
@@ -41,13 +41,13 @@ On-premise APIs to add Optical Mark Recognition functionality within application
 {{< blocks/products/pf/product-card-row title="Aspose.OMR No Code Apps Include" >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.app/omr/create-answer-sheet" pfName="Aspose.OMR " title="Create Answer Sheet" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_create-answersheet-app.png" >}}
-Instantly create customizable ready to print OMR answer sheet images using free online app.
+Create print-ready answer sheets that can be automatically recognized using Aspose.OMR technology. You don't even need to write a line of code.
 {{< /blocks/products/pf/product >}}
 {{< blocks/products/pf/product productLink="https://products.aspose.app/omr/scan-answer-sheet" pfName="Aspose.OMR " title="Scan Answer Sheet" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_scan-answersheet-app.png" >}}
-Free app to scan OMR answer sheets online using your favourite browser.
+Recognize scanned or photographed answer sheets without coding. A fast and reliable Aspose.OMR recognition engine will do all the work for you.
 {{< /blocks/products/pf/product >}}
 {{< blocks/products/pf/product productLink="https://products.aspose.app/omr/grade-calculator" pfName="Aspose.OMR " title="Grade Calculator" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_grade-calculator-app.png" >}}
-Easily calculate grade of the test, exam, quiz or assignment using free online grade calculator.
+Automatically calculate assessment core for an exam, quiz, or test. All calculations are based on standard grading system of US schools and universities.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/omr/family" innerText="View All No Code Apps" >}}
