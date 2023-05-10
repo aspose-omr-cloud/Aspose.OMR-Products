@@ -43,6 +43,10 @@ Add OMR functionality to AWS Lambda, Azure Functions, services, and applications
 Call OMR cloud services from your Perl applications to build lightweight and easy-to-maintain software-based optical mark readers.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Dart" imgSrc="aspose_omr-for-dart.svg" productLink="/omr/dart/" >}}
+Build and recognize machine-readable OMR forms on Android, iOS, Linux, macOS, Windows, and other platforms using Flutter open source framework.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
